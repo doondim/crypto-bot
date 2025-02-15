@@ -1,0 +1,13 @@
+{
+    "filters": {
+      "min_liquidity": 10000,
+      "min_market_cap": 50000
+    },
+    "blacklisted_coins": ["0x...badcoin1", "0x...badcoin2"],
+    "blacklisted_devs": ["0x...baddev1", "0x...baddev2"],
+    "pocket_universe_api_key": "your_pocket_universe_api_key",
+    "rugcheck_api_url": "https://rugcheck.xyz/api/check",
+    "telegram_bot_token": "your_telegram_bot_token",
+    "telegram_chat_id": "your_telegram_chat_id",
+    "bonkbot_api_key": "your_bonkbot_api_key"
+  }
